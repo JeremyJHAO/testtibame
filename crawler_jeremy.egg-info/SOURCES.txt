@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+crawler_jeremy/__init__.py
+crawler_jeremy.egg-info/PKG-INFO
+crawler_jeremy.egg-info/SOURCES.txt
+crawler_jeremy.egg-info/dependency_links.txt
+crawler_jeremy.egg-info/top_level.txt
